@@ -1,1 +1,1 @@
-# Client App for Pets API
+# Client App for Sodas API
