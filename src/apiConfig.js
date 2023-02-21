@@ -1,7 +1,7 @@
 let apiUrl
 const apiUrls = {
     // YOU MUST CHANGE PRODUCTION URL WHEN DEPLOYING
-	production: 'https://soda.fly.dev/',
+	production: 'https://soda.fly.dev',
 	development: 'http://localhost:8000',
 }
 
